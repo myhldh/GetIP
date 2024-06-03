@@ -29,7 +29,7 @@
    ```
    from ipv4v6 import get_ipv4_location
    print(get_ipv4_location()) #It'll print the location
-   ```# Thank you for supporting!
+   ```
 * Function *get_ip()* is used to get your ipv4 address including host and port.
 	```
 	from ipv4v6 import get_ip
